@@ -1,0 +1,13 @@
+{
+  "name": "waltercursor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cursor.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+	"author": "James Macfie <james@macfie.co.nz> (http://jamesmacfie.com/)",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
